@@ -1,0 +1,20 @@
+{
+  "name": "sicz-backend",
+  "version": "1.0.0",
+  "description": "Este proyecto está dirigido a la mejora en el funcionamiento en el proceso de elaboración y entrega de Títulos de Tierra en las diferentes Oficinas Técnicas Sociales de Tierras Urbanas de cada Municipio en el territorio nacional venezolano.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moisesb12/sicz-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moisesb12/sicz-backend/issues"
+  },
+  "homepage": "https://github.com/moisesb12/sicz-backend#readme"
+}
